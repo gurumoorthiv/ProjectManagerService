@@ -1,0 +1,14 @@
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\ProjectManager.DL.dll.config
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\ProjectManager.DL.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\ProjectManager.DL.pdb
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\EntityFramework.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\ProjectManager.Entities.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\ProjectManager.Entities.pdb
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\EntityFramework.xml
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\obj\Debug\ProjectManager.DL.csprojResolveAssemblyReference.cache
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\obj\Debug\ProjectManager.DL.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\obj\Debug\ProjectManager.DL.pdb
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\obj\Debug\ProjectManager.DL.Migrations.first.resources
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.DL\obj\Debug\ProjectManager.DL.csproj.GenerateResource.Cache

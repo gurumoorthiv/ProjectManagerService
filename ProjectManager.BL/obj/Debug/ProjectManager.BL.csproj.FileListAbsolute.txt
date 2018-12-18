@@ -1,0 +1,15 @@
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.BL.dll.config
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.BL.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.BL.pdb
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\EntityFramework.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.DL.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.Entities.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.DL.pdb
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.DL.dll.config
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.Entities.pdb
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\EntityFramework.xml
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\obj\Debug\ProjectManager.BL.csprojResolveAssemblyReference.cache
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\obj\Debug\ProjectManager.BL.dll
+C:\FinalProject\ProjectManagerService-master\ProjectManagerService-master\ProjectManager.BL\obj\Debug\ProjectManager.BL.pdb
